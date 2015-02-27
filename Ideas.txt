@@ -3,14 +3,17 @@ Ideas
 LEGEND
 `Under consideration
 -Planned
+*to be replaced/removed
 ^Partially implemented
 ^^Implemented
 
--A post function ^
+-A Singular replacable image -^
+
+-A post function *
 	-needs user-editability
 	-one post at a time
 
 -fixPlaceholder  `-
 	-needs an actual image
 
--more Pagedecoration -^
+-more pageDecoration -^

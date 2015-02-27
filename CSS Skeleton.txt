@@ -5,6 +5,15 @@ body {
   background-color: #eee;
 }
 
+.logo {
+  display:none
+  margin-top:0;
+  margin-bottom:0;
+  margin-left:0;
+  margin-right:0;
+  
+}
+
 .container {
   width: 520px;
   margin-top: 20px;
