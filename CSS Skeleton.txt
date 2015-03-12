@@ -1,6 +1,6 @@
 html,
 body {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Comic Sans', sans-serif;
   color: #404040;
   background-color: #eee;
 }
@@ -11,7 +11,9 @@ body {
   margin-bottom:0;
   margin-left:0;
   margin-right:0;
-  
+  border-style:dashed;
+  border-width:3px;
+  border-color:black
 }
 
 .container {
