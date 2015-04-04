@@ -1,5 +1,3 @@
-Ideas
-snoop dogg
 
 LEGEND
 `Under consideration
@@ -8,13 +6,7 @@ LEGEND
 ^Partially implemented
 ^^Implemented
 
--A Singular replacable image -^
+Scope complete/Broken
+-No planned changes
+-Ideas have been ported to the Fresh-Spicy-Meme rewrite.
 
--A post function *
-	-needs user-editability
-	-one post at a time
-
--fixPlaceholder  `-
-	-needs an actual image
-
--more pageDecoration -^

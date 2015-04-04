@@ -6,14 +6,15 @@
     <link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
     <link href="style.css" rel="stylesheet">
     <div class"logo">
-<img source="stokereport.com/files/Spicy%20Meatball.jpg"></img>
-</div>	
+<img contenteditable="true" source="stokereport.com/files/Spicy%20Meatball.jpg"></img>
+</div>    
   </head>
   <body>
+  <div contenteditable="true" class="logo"><img source="stokereport.com/files/Spicy%20Meatball.jpg"></img>
     <div class="container">
       <form>
         <div class="form-group">
-          <textarea class="form-control status-box" rows="2" placeholder="What's on your mind?"></textarea>
+          <textarea class="form-control status-box" rows="2" placeholder=""Something Spicy""></textarea>
         </div>
       </form>
       <div class="button-group pull-right">
@@ -24,6 +25,8 @@
       <ul class="posts">
       </ul>
     </div>
+
+    <script type="text/javascript" src="http://s3.amazonaws.com/codecademy-content/courses/hour-of-code/js/alphabet.js"></script>
 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
     <script src="app.js"></script>

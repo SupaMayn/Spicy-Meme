@@ -1,24 +1,29 @@
 html,
 body {
-  font-family: 'Comic Sans', sans-serif;
+  font-family: 'Roboto', sans-serif;
   color: #404040;
   background-color: #eee;
+  margin-left:69px;
+  margin-top:21px;
+  margin-right:21px;
 }
 
 .logo {
-  display:none
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background position:left, top;
+  display:inline
+  float:left;
   margin-top:0;
   margin-bottom:0;
   margin-left:0;
-  margin-right:0;
-  border-style:dashed;
-  border-width:3px;
-  border-color:black
+  margin-right:0;  
 }
 
 .container {
   width: 520px;
   margin-top: 20px;
+  margin-left: 20px;
 }
 
 .button-group {
